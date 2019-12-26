@@ -9,11 +9,14 @@ var Schemas = {
   OPTION_6: 'option 6'
 };
 
-var sqlPublisherAuthorSchema =  Schemas.FIX_ME; // TODO: Update this constant
+var sqlPublisherAuthorSchema =  Schemas.OPTION_0; // TODO: Update this constant
 // TODO: Write a comment here explaining your choice
+// i choose this option to tables become obvious (to see the name) without get back to see other tables
 
-var sqlPublisherGenreSchema =  Schemas.FIX_ME; // TODO: Update this constant
+var sqlPublisherGenreSchema =  Schemas.OPTION_2; // TODO: Update this constant
 // TODO: Write a comment here explaining your choice
+// i choose this option to tables become obvious (to see the name) without get back to see other tables
 
-var sqlAuthorGenreSchema =  Schemas.FIX_ME; // TODO: Update this constant
+var sqlAuthorGenreSchema =  Schemas.OPTION_2; // TODO: Update this constant
 // TODO: Write a comment here explaining your choice
+// i choose this option to tables become obvious (to see the name) without get back to see other tables
